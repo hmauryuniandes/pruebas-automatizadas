@@ -14,6 +14,6 @@
 
 ## Wiki 
 
-[Link](https://github.com/hmauryuniandes/pruebas-automatizadas/issues/1)
+[Link](https://github.com/hmauryuniandes/pruebas-automatizadas/wiki)
 
 
