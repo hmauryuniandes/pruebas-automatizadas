@@ -14,6 +14,6 @@
 
 ## Wiki 
 
-[Link]([INC-01](https://github.com/hmauryuniandes/pruebas-automatizadas/issues/1))
+[Link]([INC-01](https://github.com/hmauryuniandes/pruebas-automatizadas/issues/1)
 
 
